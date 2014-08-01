@@ -1,0 +1,6 @@
+Universum 2
+
+Status: Offline
+Spieler: 80
+Galaxien: 1
+Rassen: 2
